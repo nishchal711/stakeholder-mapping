@@ -1,8 +1,6 @@
 # Stakeholder Mapping – Smart City with E-Vehicles
 
-## Student Details
-- Name: Nishchal
-- Roll No: 2K25CSUN06030
+
 
 ## Project Overview
 This project represents Stakeholder Mapping for a Smart City where all vehicles are converted into Electric Vehicles (E-Vehicles). The mapping identifies primary and secondary stakeholders involved in the project.
